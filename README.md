@@ -1,4 +1,4 @@
-# Accurate Solution of the Nonlinear Schrödinger Equation via Multiple-Relaxation ImEx Methods
+# Accurate Solution of the Nonlinear Schrödinger Equation via Conservative Multiple-Relaxation ImEx Methods
 ## Authors: Abhijit Biswas and David Ketcheson
 
 #### This repository contains all the code used to generate the figures and tables in the manuscript 'Accurate Solution of the Nonlinear Schrödinger Equation via Conservative Multiple-Relaxation ImEx Methods.'
